@@ -17,7 +17,7 @@ body {
   display: flex;
   flex-direction: column;
   text-align: center;
-  background-color: #263238;
+ border: 1px solid #263238;
 }
 
 .joinChatContainer h3 {
