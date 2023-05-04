@@ -2,14 +2,19 @@
 ChatMate an app to chat on
 
 dependencies:
+
 server -> npm i express nodemon socket.io cors
+
 client -> npx create-react-app
 
 to run the developer mode and test the app
+
 server -> npm start
+
 client -> npm start
 
 first commit:
+
 server -> testing the connection of server-side and the client-side using socket.io the connection working good
 
 client -> developing client-side interface using css. button, textarea and timestamp is working in server-side. 
