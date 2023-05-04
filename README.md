@@ -5,7 +5,7 @@ dependencies:
 
 server -> npm i express nodemon socket.io cors
 
-client -> npx create-react-app
+client -> npx create-react-app, npm i react-scroll-to-bottom
 
 to run the developer mode and test the app
 
@@ -21,3 +21,7 @@ client -> developing client-side interface using css. button, textarea and times
          I need to continio it, and display in client interface, i need more time to improve.
          
 crud operation -> is properly working the GET and POST method, the update and delete methods is in process so far 
+
+second commit: 
+
+ChatMate -> the user interface has been improved
