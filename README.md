@@ -1,5 +1,6 @@
 # ChatMate
 ChatMate an app to chat on
+
 dependencies:
 server -> npm i express nodemon socket.io cors
 client -> npx create-react-app
